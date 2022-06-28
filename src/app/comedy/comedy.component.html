@@ -1,0 +1,14 @@
+<h1>Standup Comedy Suggestions</h1>
+<div class="container">
+    <div *ngFor="let ele of comedy" class="row">
+
+        <div class="col-md-6">
+            <p style="size:200px ; ">Title : {{ele.title}}</p>
+        </div>
+        <div class="col-md-6 ">
+
+            <a href="{{ele.link}} " style="color:green; ">Link To The Video</a><br><br>
+
+        </div>
+    </div>
+</div>

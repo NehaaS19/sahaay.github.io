@@ -1,0 +1,20 @@
+<h1>Books Available</h1>
+<div class="container">
+    <div *ngFor="let ele of book" class="row">
+        <div class="row book text-center">
+            <div class="col-md-6">
+                <img src="../../assets/{{ele.imageLink}}" width="300" height="300">
+            </div>
+            <div class="col-md-6">
+                <p style="size:200px ;">Title : {{ele.title}}</p>
+                <p>Author : {{ele.author}}</p>
+                <p>Language : {{ele.language}}</p>
+                <p>Pages : {{ele.pages}}</p>
+                <p>Year : {{ele.year}}</p>
+                <a href="{{ele.link}}" style="color:green;">Link Of The Book</a><br><br>
+
+
+            </div>
+        </div>
+    </div>
+</div>

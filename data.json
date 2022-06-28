@@ -1,0 +1,612 @@
+{
+    "Books": [{
+            "id": 1,
+            "author": "Melanie Greenberg",
+            "imageLink": "images/book1.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/the-stress-proof-brain-master-your-emotional-response-to-stress-using-mindfulness-and-neuroplasticity-e158322130.html",
+            "pages": 242,
+            "title": "The Stress-Proof Brain: Master Your Emotional Response to Stress Using Mindfulness and Neuroplasticity",
+            "year": 2017
+        },
+        {
+            "id": 2,
+            "author": "Sonia Lupien",
+            "imageLink": "images/book2.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/well-stressed-manage-stress-before-it-turns-toxic-e157494709.html",
+            "pages": 234,
+            "title": "Well Stressed: Manage Stress Before It Turns Toxic",
+            "year": 2012
+        },
+        {
+            "id": 3,
+            "author": "Eva Selhub",
+            "imageLink": "images/book3.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/the-stress-management-handbook-a-practical-guide-to-staying-calm-keeping-cool-and-avoiding-blow-ups-e157120909.html",
+            "pages": 174,
+            "title": "The Stress Management Handbook: A Practical Guide to Staying Calm, Keeping Cool, and Avoiding Blow-Ups",
+            "year": 2019
+        },
+        {
+            "id": 4,
+            "author": "Gladeana McMahon",
+            "imageLink": "images/book4.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/no-more-stress-be-your-own-stress-management-coach-e161458746.html",
+            "pages": 209,
+            "title": "No More Stress!: Be Your Own Stress Management Coach",
+            "year": 2010
+        },
+        {
+            "id": 5,
+            "author": "Jeremy Stranks",
+            "imageLink": "images/book5.jfif",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/stress-at-work-management-and-prevention-jeremy-strankspdf-e23398254.html",
+            "pages": 234,
+            "title": "Stress at Work Management and Prevention",
+            "year": 2005
+        },
+        {
+            "id": 6,
+            "author": "Amit Sood",
+            "imageLink": "images/book6.jpg",
+            "language": "English",
+            "link": "https://oiipdf.com/the-mayo-clinic-guide-to-stress-free-living",
+            "pages": 443,
+            "title": "The Mayo Clinic guide to stress-free living",
+            "year": 2013
+        },
+        {
+            "id": 7,
+            "author": "Kelly McGonigal",
+            "imageLink": "images/book7.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/the-upside-of-stress-why-stress-is-good-for-you-and-how-to-get-good-at-it-e185128854.html",
+            "pages": 217,
+            "title": "The Upside of Stress: Why Stress Is Good for You, and How to Get Good at It",
+            "year": 2015
+        },
+        {
+            "id": 8,
+            "author": "Allen Elkin",
+            "imageLink": "images/book8.jpg",
+            "language": "English",
+            "link": "https://www.myindustry.ir/files/stress-management.pdf",
+            "pages": 384,
+            "title": "Stress Management for Dummies",
+            "year": 1999
+        },
+        {
+            "id": 9,
+            "author": "Jay Shetty",
+            "imageLink": "images/book9.jpg",
+            "language": "English",
+            "link": "https://instapdf.in/think-like-a-monk/",
+            "pages": 312,
+            "title": "Think Like a Monk . Think Like a Monk PDF",
+            "year": 2021
+        },
+        {
+            "id": 10,
+            "author": "S.J. Scott & Barrie Davenport",
+            "imageLink": "images/book10.jfif",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/10-minute-mindfulness-71-habits-for-living-in-the-present-moment-e199787645.html",
+            "pages": 214,
+            "title": "10-Minute Mindfulness: 71 Habits for Living in the Present Moment",
+            "year": 2017
+        },
+        {
+            "id": 11,
+            "author": " Diane McIntosh & Jonathan Horowitz & Megan Kaye",
+            "imageLink": "images/book11.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/stress-the-psychology-of-managing-pressure-e200495457.html",
+            "pages": 409,
+            "title": "Stress: The Psychology of Managing Pressure",
+            "year": 2017
+        },
+        {
+            "id": 12,
+            "author": "Brian Luke Seaward",
+            "imageLink": "images/book12.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/managing-stress-principles-and-strategies-e176068264.html",
+            "pages": 609,
+            "title": "Managing Stress: Principles and Strategies",
+            "year": 2016
+        },
+        {
+            "id": 13,
+            "author": "Richard S. Lazarus PhD & Susan Folkman PhD",
+            "imageLink": "images/book13.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/stress-appraisal-and-coping-e190017304.html",
+            "pages": 462,
+            "title": "Stress, Appraisal, and Coping",
+            "year": 1984
+        },
+        {
+            "id": 14,
+            "author": "Charles D. Spielberger & Irwin Sarason",
+            "imageLink": "images/book14.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/stress-and-emotion-volume-17-anxiety-anger-and-curiosity-stress-and-emotion-e159860849.html",
+            "pages": 378,
+            "title": "Stress and Emotion, Volume 17: Anxiety, Anger, and Curiosity (Stress and Emotion)",
+            "year": 2005
+        },
+        {
+            "id": 15,
+            "author": "Gabor Maté",
+            "imageLink": "images/book15.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/when-the-body-says-no-the-cost-of-hidden-stress-e196505086.html",
+            "pages": 272,
+            "title": "When the Body Says No: The Cost of Hidden Stress",
+            "year": 2016
+        },
+        {
+            "id": 16,
+            "author": "Dzung X. Vo MD FAAP",
+            "imageLink": "images/book16.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/the-mindful-teen-powerful-skills-to-help-you-handle-stress-one-moment-at-a-time-e158217599.html",
+            "pages": 249,
+            "title": "The Mindful Teen: Powerful Skills to Help You Handle Stress One Moment at a Time",
+            "year": 2015
+        },
+        {
+            "id": 17,
+            "author": "Gaur Gopal Das",
+            "imageLink": "images/book17.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/lifes-amazing-secrets-how-to-find-balance-and-purpose-in-your-life-e157203656.html",
+            "pages": 165,
+            "title": "Life’s Amazing Secrets: How to Find Balance and Purpose in Your Life",
+            "year": 2018
+        },
+        {
+            "id": 18,
+            "author": "Héctor García & Francesc Miralles & Heather Cleary",
+            "imageLink": "images/book18.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/ikigai-the-japanese-secret-to-a-long-and-happy-life-e195091541.html",
+            "pages": 350,
+            "title": "Ikigai : the Japanese secret to a long and happy life",
+            "year": 2017
+        },
+        {
+            "id": 19,
+            "author": "Vikram Patel",
+            "imageLink": "images/book19.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/where-there-is-no-psychiatrist-a-mental-health-care-manual-e185516710.html",
+            "pages": 290,
+            "title": "Where There Is No Psychiatrist: A Mental Health Care Manual",
+            "year": 2003
+        },
+        {
+            "id": 20,
+            "author": "Matt Blaylock",
+            "imageLink": "images/book20.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/mindfulness-meditation-for-everyday-life-e23960519.html",
+            "pages": 279,
+            "title": "Mindfulness Meditation (For Everyday Life)",
+            "year": 2010
+        },
+        {
+            "id": 21,
+            "author": "VERHAEGHEN & PAUL",
+            "imageLink": "images/book21.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/presence-how-mindfulness-and-meditation-shape-your-brain-mind-and-life-e185947133.html",
+            "pages": 249,
+            "title": "Presence: How Mindfulness and Meditation Shape Your Brain, Mind, and Life",
+            "year": 2017
+        },
+        {
+            "id": 22,
+            "author": "Yogi Ashokananda",
+            "imageLink": "images/book22.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/power-of-relaxation-align-your-body-your-mind-and-your-life-through-meditation-e183859495.html",
+            "pages": 164,
+            "title": "Power of Relaxation: Align Your Body, Your Mind, and Your Life Through Meditation",
+            "year": 2015
+        },
+        {
+            "id": 23,
+            "author": "Swami Saradananda",
+            "imageLink": "images/book23.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/mudras-for-modern-life-boost-your-health-re-energize-your-life-enhance-your-yoga-and-deepen-your-meditation-e157046681.html",
+            "pages": 263,
+            "title": "Mudras for Modern Life: Boost Your Health, Re-energize Your Life, Enhance Your Yoga and Deepen Your Meditation",
+            "year": 2015
+        },
+        {
+            "id": 24,
+            "author": "Aimee Bernstein M.ED MFCC",
+            "imageLink": "images/book24.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/stress-less-achieve-more-simple-ways-to-turn-pressure-into-a-positive-force-in-your-life-e175940962.html",
+            "pages": 275,
+            "title": "Stress Less. Achieve More.: Simple Ways to Turn Pressure into a Positive Force in Your Life",
+            "year": 2015
+        },
+        {
+            "id": 25,
+            "author": "Campbell & Chellie",
+            "imageLink": "images/book25.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/from-worry-to-wealthy-a-womans-guide-to-financial-success-without-the-stress-e194991924.html",
+            "pages": 196,
+            "title": "From worry to wealthy : a woman's guide to financial success without the stress",
+            "year": 2015
+        },
+        {
+            "id": 26,
+            "author": "Jed Diamond Ph.D.",
+            "imageLink": "images/book26.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/stress-relief-for-men-how-to-use-the-revolutionary-tools-of-energy-healing-to-live-well-e167723277.html",
+            "pages": 295,
+            "title": "Stress Relief for Men: How to Use the Revolutionary Tools of Energy Healing to Live Well",
+            "year": 2014
+        },
+        {
+            "id": 27,
+            "author": "Richard P. Brown & Patricia L. Gerbarg",
+            "imageLink": "images/book27.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/the-healing-power-of-the-breath-simple-techniques-to-reduce-stress-and-anxiety-enhance-concentration-and-balance-your-emotions-e194668979.html",
+            "pages": 162,
+            "title": "The Healing Power of the Breath: Simple Techniques to Reduce Stress and Anxiety, Enhance Concentration, and Balance Your Emotions",
+            "year": 2012
+        },
+        {
+            "id": 28,
+            "author": "Barbara Ann Kipfer",
+            "imageLink": "images/book28.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/breath-perception-a-daily-guide-to-stress-relief-mindfulness-and-inner-peace-e196918695.html",
+            "pages": 313,
+            "title": "Breath Perception: A Daily Guide to Stress Relief, Mindfulness, and Inner Peace",
+            "year": 2014
+        },
+        {
+            "id": 29,
+            "author": "Jonny Bowden Ph.D. C.N.S.",
+            "imageLink": "images/book29.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/the-150-most-effective-ways-to-boost-your-energy-the-surprising-unbiased-truth-about-using-nutrition-exercise-supplements-stress-relief-and-personal-empowerment-to-stay-energized-all-day-e157604021.html",
+            "pages": 306,
+            "title": "The 150 Most Effective Ways to Boost Your Energy: The Surprising, Unbiased Truth About Using Nutrition, Exercise, Supplements, Stress Relief, and Personal Empowerment to Stay Energized All Day",
+            "year": 2008
+        },
+        {
+            "id": 30,
+            "author": "Victoria Stone",
+            "imageLink": "images/book30.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/the-worlds-best-massage-techniques-the-complete-illustrated-guide-innovative-bodywork-practices-from-around-the-globe-for-pleasure-relaxation-and-pain-relief-e176046781.html",
+            "pages": 256,
+            "title": "The World's Best Massage Techniques The Complete Illustrated Guide: Innovative Bodywork Practices From Around the Globe for Pleasure, Relaxation, and Pain Relief",
+            "year": 2010
+        },
+        {
+            "id": 31,
+            "author": "Lusk & Julie T",
+            "imageLink": "images/book31.jfif",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/yoga-nidra-for-complete-relaxation-and-stress-relief-e195010033.html",
+            "pages": 200,
+            "title": "Yoga Nidra for complete relaxation and stress relief",
+            "year": 2015
+        },
+        {
+            "id": 32,
+            "author": "Gail Boorstein",
+            "imageLink": "images/book32.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/yoga-journal-presents-restorative-yoga-for-life-a-relaxing-way-to-de-stress-re-energize-and-find-balance-e196755875.html",
+            "pages": 435,
+            "title": "Yoga Journal Presents Restorative Yoga for Life: A Relaxing Way to De-stress, Re-energize, and Find Balance ",
+            "year": 2015
+        },
+        {
+            "id": 33,
+            "author": "Unknown",
+            "imageLink": "images/book33.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/posttraumatic-stress-disorder-diagnosis-and-assessment-e185478609.html",
+            "pages": 87,
+            "title": "Posttraumatic Stress Disorder: Diagnosis and Assessment",
+            "year": 2006
+        },
+        {
+            "id": 34,
+            "author": "Nick Ortner",
+            "imageLink": "images/book34.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/the-tapping-solution-for-parents-children-teenagers-how-to-let-go-of-excessive-stress-anxiety-and-worry-and-raise-happy-healthy-resilient-families-e200701229.html",
+            "pages": 432,
+            "title": "The Tapping Solution for Parents, Children & Teenagers: How to Let Go of Excessive Stress, Anxiety and Worry and Raise Happy, Healthy, Resilient Families",
+            "year": 2018
+        },
+        {
+            "id": 35,
+            "author": "Joseph Prince",
+            "imageLink": "images/book35.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/live-the-let-go-life-breaking-free-from-stress-worry-and-anxiety-e158064383.html",
+            "pages": 303,
+            "title": "Live the Let-Go Life: Breaking Free from Stress, Worry, and Anxiety",
+            "year": 2016
+        },
+        {
+            "id": 36,
+            "author": "Julian D. Ford PhD & Christine A. Courtois PhD",
+            "imageLink": "images/book36.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/treating-complex-traumatic-stress-disorders-in-children-and-adolescents-scientific-foundations-and-therapeutic-models-e176056350.html",
+            "pages": 386,
+            "title": "Treating Complex Traumatic Stress Disorders in Children and Adolescents: Scientific Foundations",
+            "year": 2013
+        },
+        {
+            "id": 37,
+            "author": "Unknown",
+            "imageLink": "images/book37.jfif",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/australian-guidelines-for-the-treatment-of-acute-stress-disorder-posttraumatic-stress-disorder-e19613058.html",
+            "pages": 200,
+            "title": "Australian Guidelines for the Treatment of Acute Stress Disorder & Posttraumatic Stress Disorder",
+            "year": 2016
+        },
+        {
+            "id": 38,
+            "author": "Daniel G. Amen",
+            "imageLink": "images/book38.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/change-your-brain-change-your-life-the-breakthrough-program-for-conquering-anxiety-depression-obsessiveness-anger-and-impulsiveness-e184033403.html",
+            "pages": 178,
+            "title": "Change Your Brain, Change Your Life",
+            "year": 1999
+        },
+        {
+            "id": 39,
+            "author": "Stanley Rosenberg & Stephen W. Porges",
+            "imageLink": "images/book39.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/accessing-the-healing-power-of-the-vagus-nerve-self-help-exercises-for-anxiety-depression-trauma-and-autism-e195086865.html",
+            "pages": 274,
+            "title": "Accessing the Healing Power of the Vagus Nerve: Self-Help Exercises for Anxiety, Depression, Trauma, and Autism ",
+            "year": 2017
+        },
+        {
+            "id": 40,
+            "author": "Peter Bongiorno",
+            "imageLink": "images/book40.jpg",
+            "language": "English",
+            "link": "https://www.pdfdrive.com/holistic-solutions-for-anxiety-depression-in-therapy-e34805349.html",
+            "pages": 290,
+            "title": "Holistic Solutions for Anxiety & Depression in Therapy",
+            "year": 2015
+        }
+    ],
+
+    "Youtube": [{
+            "id": 1,
+            "title": "How to make stress your friend | Kelly McGonigal",
+            "link": "https://youtu.be/RcGyVTAoXEU"
+        },
+        {
+            "id": 2,
+            "title": "IT IS ABOUT TIME TO LEARN TO MANAGE STRESS | Brenda Strong ",
+            "link": "https://youtu.be/7jQMTR_t8vg"
+        },
+        {
+            "id": 3,
+            "title": "How to channel your stress to help you succeed | Heidi Hanna",
+            "link": "https://youtu.be/yrwWvdM_Yns"
+        },
+        {
+            "id": 4,
+            "title": "How stress is killing us (and how you can stop it). | Thijs Launspach ",
+            "link": "https://youtu.be/NyyPZJrDfkM"
+        },
+        {
+            "id": 5,
+            "title": "Chronic Stress, Anxiety? - You Are Your Best Doctor! | Dr. Bal Pawa",
+            "link": "https://youtu.be/qq0DBeFdDlM"
+        },
+        {
+            "id": 6,
+            "title": "The Power of Mindfulness: What You Practice Grows Stronger | Shauna Shapiro",
+            "link": "https://youtu.be/IeblJdB2-Vo"
+        },
+        {
+            "id": 7,
+            "title": "The cost of workplace stress -- and how to reduce it | Rob Cooke",
+            "link": "https://youtu.be/QE8kNh52EeU"
+        },
+        {
+            "id": 8,
+            "title": "How to stay calm when you know you'll be stressed | Daniel Levitin",
+            "link": "https://youtu.be/8jPQjjsBbIc"
+        },
+        {
+            "id": 9,
+            "title": "How to Manage Stress? | Sadhguru",
+            "link": "https://youtu.be/TYWI929nZKg"
+        },
+        {
+            "id": 10,
+            "title": "Why Am I Stressed? - Sadhguru on Stress",
+            "link": "https://youtu.be/3J-cYxxHQGQ"
+        },
+        {
+            "id": 11,
+            "title": "Managing Stress | American Heart Association ",
+            "link": "https://youtu.be/CWmkJpiTQ-4"
+        },
+        {
+            "id": 12,
+            "title": "Coping With Stress: Cognitive-Behavioral Stress Reduction",
+            "link": "https://youtu.be/0BbHW3H_xmo"
+        },
+        {
+            "id": 13,
+            "title": "Take a Stress Reduction Break and Meditate: 20 Minute Guided Meditation with Gurudev",
+            "link": "https://youtu.be/R_yFAMtfv9c"
+        }
+    ],
+    "Games": [{
+            "id": 1,
+            "name": "COLOR MATCH",
+            "link": "https://www.silvergames.com/en/color-match",
+            "imageLink": "images/game1.png",
+            "desc": "Color Match is a challenging eyesight test game where you have to recognize different colors within a wide palette. As time ticks down, you'll need to move your cursor through the color palette until you've found the right one."
+        },
+        {
+            "id": 2,
+            "name": "SATISFYING SLIME SIMULATOR",
+            "link": "https://www.silvergames.com/en/satisfying-slime-simulator",
+            "imageLink": "images/game2.png",
+            "desc": "Satisfying Slime Simulator is a fun slime creating game to make this weird toy for kids just how you always wanted."
+        },
+        {
+            "id": 3,
+            "name": "BUBBLE SHOOTER",
+            "link": "https://www.silvergames.com/en/bubble-shooter",
+            "imageLink": "images/game3.png",
+            "desc": "Bubble Shooter is an online match 3 puzzle game where you have to shoot and group bubbles. You shoot brightly colored bubbles at an entire wall of bubbles hovering above you."
+        },
+        {
+            "id": 4,
+            "name": "POP IT",
+            "link": "https://www.silvergames.com/en/pop-it",
+            "imageLink": "images/game4.png",
+            "desc": " Pop IT is a cool fidget toy bubble game simulator in which you have to push all the round, colorful bubbles."
+        },
+        {
+            "id": 5,
+            "name": "TEMPLE RUN 2",
+            "link": "https://www.gamepix.com/play/temple-run-2",
+            "imageLink": "images/game5.png",
+            "desc": "Temple Run is a video game franchise of 3D endless running video games developed and published by Imangi Studios."
+        },
+        {
+            "id": 6,
+            "name": "CANDY CRUSH",
+            "link": "https://www.play123.in/game/candy-crush",
+            "imageLink": "images/game6.jpg",
+            "desc": "Match candy to create special sweets such as striped candy, wrapped candy and rainbow candy."
+        },
+        {
+            "id": 7,
+            "name": "TETRIS",
+            "link": "https://tetris.com/play-tetris",
+            "imageLink": "images/game7.png",
+            "desc": "Tetris is the addictive puzzle game that started it all, embracing our universal desire to create order out of chaos."
+        },
+        {
+            "id": 8,
+            "name": "SUPER MARIO RUN",
+            "link": "https://www.crazygames.com/game/super-mario-run",
+            "imageLink": "images/game8.jpg",
+            "desc": "Take control of the legendary Mario in this side-scrolling platform game."
+        },
+        {
+            "id": 9,
+            "name": "WORDSCAPES",
+            "link": "https://www.bestgames.com/Wordscapes",
+            "imageLink": "images/game9.png",
+            "desc": "You build words from your given letter without a time limit. You can create more than one."
+        },
+        {
+            "id": 10,
+            "name": "FLOW FREE",
+            "link": "https://www.yad.com/Flow-Free",
+            "imageLink": "images/game10.png",
+            "desc": "The objective is to pair the same colors with a “pipe.” By connecting the colors, you create a Flow. "
+        }
+    ],
+    "Comedy": [{
+            "id": 1,
+            "title": "Fresh & Clean Comedy",
+            "link": "https://tubitv.com/movies/619975/fresh-clean-comedy?start=true"
+        },
+        {
+            "id": 2,
+            "title": "Stand Up Comedy Bash ",
+            "link": "https://tubitv.com/series/300004931/stand-up-comedy-bash?start=true"
+        },
+        {
+            "id": 3,
+            "title": "Stand-Up Comedy by Kenny Sebastian",
+            "link": "https://www.youtube.com/watch?v=TZgyeEE2hx4&list=PLXdIy-dw1BNu0IYx780gkhIcENMG9zqxo"
+        },
+        {
+            "id": 4,
+            "title": "Stand-Up Comedy by Aakash Gupta ",
+            "link": "https://www.youtube.com/watch?v=Xc5n49aEhwc&list=PLamQsGLtVssoLVpH2ZlYgeOX3XdplOrEP"
+        },
+        {
+            "id": 5,
+            "title": "Stand-Up Comedy by Kanan Gill",
+            "link": "https://www.youtube.com/watch?v=Kb1fFLkbPao&list=PLVmwHEj8mVmDjI3kv-vaHclWgAGOmluzZ"
+        },
+        {
+            "id": 6,
+            "title": "RAHUL SUBRAMANIAN | LIVE IN BANGALORE",
+            "link": "https://www.youtube.com/watch?v=2Oy4HpUJSgE"
+        },
+        {
+            "id": 7,
+            "title": "Kannada Stand-up Comedy by Nithin Kamath",
+            "link": "https://www.youtube.com/watch?v=zMZAoGk17X8&list=PL8RR06yrKiHIJx9PevqASMmD104DD5JpQ"
+        },
+        {
+            "id": 8,
+            "title": "Dark Skin & Getting Married | Stand Up Comedy by Saikiran",
+            "link": "https://www.youtube.com/watch?v=aTUiGWJinX0"
+        },
+        {
+            "id": 9,
+            "title": "Stand up Comedy by Fatima Ayesha",
+            "link": "https://www.youtube.com/watch?v=if-pt3Du6ZU&list=PLFrJK9qpYaZuyzblqCMj3PzwhnIU66SFV"
+        },
+        {
+            "id": 10,
+            "title": "Life's better when you're fat. Josh Sneed",
+            "link": "https://www.youtube.com/watch?v=Q-C9mPu7r_4&t=4s"
+        },
+        {
+            "id": 11,
+            "title": "Dancing With The Stars Is Irrelevant. Dave Burleigh ",
+            "link": "https://www.youtube.com/watch?v=zkcFQiEwmvI&t=1s"
+        },
+        {
+            "id": 12,
+            "title": "Don't Name Your Kids Something Stupid. Dwayne Perkins",
+            "link": "https://www.youtube.com/watch?v=wOwvnBzJK5k"
+        },
+        {
+            "id": 13,
+            "title": "LOL Network Stand-Up!",
+            "link": "https://www.youtube.com/c/LOLStandup/featured"
+        },
+        {
+            "id": 14,
+            "title": "Just For Laughs",
+            "link": "https://www.youtube.com/user/justforlaughscomedy/featured"
+        }
+    ]
+}

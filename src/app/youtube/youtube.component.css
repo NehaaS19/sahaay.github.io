@@ -1,0 +1,27 @@
+.youtube {
+    /*border-radius: 8px;
+    border-color: whitesmoke;
+    border-style: solid;*/
+    padding-top: 20px;
+    display: flexbox;
+}
+
+.row {
+    padding: 40px;
+}
+
+h1 {
+    /* color:lightcoral; */
+    color: black;
+    text-align: center;
+}
+
+p {
+    color: black;
+}
+
+.col-md-6 {
+    background-color: rgb(178, 163, 219);
+    font-size: large;
+    padding: 40px;
+}

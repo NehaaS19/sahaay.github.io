@@ -1,0 +1,15 @@
+<h1>
+    Game Suggestions</h1>
+<div class="container">
+    <div *ngFor="let ele of games" class="row">
+        <div class="col-md-6">
+            <img src="../../assets/{{ele.imageLink}}" width="200" height="200">
+        </div>
+        <div class="col-md-6 ">
+            <p style="size:200px ; ">Name : {{ele.name}}</p>
+            <p style="size:200px ; ">{{ele.desc}}</p>
+            <a href="{{ele.link}} " style="color:green; ">Link to Play</a><br><br>
+
+        </div>
+    </div>
+</div>
